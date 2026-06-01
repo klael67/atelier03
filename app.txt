@@ -1,3 +1,4 @@
 Fichier APP.TXT
 4. Modifier une tâche
 5. Tester rebase
+4. Marquer une tâche comme terminée
