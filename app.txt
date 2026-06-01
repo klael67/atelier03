@@ -1,2 +1,3 @@
 Fichier APP.TXT
 4. Marquer une tâche comme terminée
+4. Modifier une tâche
