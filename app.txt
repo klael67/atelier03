@@ -3,3 +3,4 @@ Fichier APP.TXT
 5. Tester rebase
 4. Marquer une tâche comme terminée
 6. Tester Rebase encore une fois
+6. Test rebase fini
